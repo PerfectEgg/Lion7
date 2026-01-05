@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC C#\uC6A9\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Lion7\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|c:\\users\\asus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC c#\uC6A9\\consoleapp1\\special.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|c:\\lion7\\consoleapp1\\special.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|solutionrelative:special.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|c:\\users\\asus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC c#\uC6A9\\consoleapp1\\literal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|solutionrelative:literal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|c:\\lion7\\consoleapp1\\thread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|solutionrelative:thread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|c:\\users\\asus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC c#\uC6A9\\consoleapp1\\declaration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|solutionrelative:declaration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|c:\\users\\asus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC c#\uC6A9\\consoleapp1\\variable .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|solutionrelative:variable .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|c:\\lion7\\consoleapp1\\system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|solutionrelative:system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,63 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 235,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "special.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC C#\uC6A9\\ConsoleApp1\\special.cs",
+              "DocumentMoniker": "C:\\Lion7\\ConsoleApp1\\special.cs",
               "RelativeDocumentMoniker": "special.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC C#\uC6A9\\ConsoleApp1\\special.cs",
+              "ToolTip": "C:\\Lion7\\ConsoleApp1\\special.cs",
               "RelativeToolTip": "special.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T06:13:45.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "declaration.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC C#\uC6A9\\ConsoleApp1\\declaration.cs",
-              "RelativeDocumentMoniker": "declaration.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC C#\uC6A9\\ConsoleApp1\\declaration.cs",
-              "RelativeToolTip": "declaration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T04:33:33.743Z",
+              "WhenOpened": "2026-01-05T07:20:31.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Literal.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC C#\uC6A9\\ConsoleApp1\\Literal.cs",
-              "RelativeDocumentMoniker": "Literal.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC C#\uC6A9\\ConsoleApp1\\Literal.cs",
-              "RelativeToolTip": "Literal.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAoAAAAaAAAAAAAAAA==",
+              "Title": "thread.cs",
+              "DocumentMoniker": "C:\\Lion7\\ConsoleApp1\\thread.cs",
+              "RelativeDocumentMoniker": "thread.cs",
+              "ToolTip": "C:\\Lion7\\ConsoleApp1\\thread.cs",
+              "RelativeToolTip": "thread.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T02:28:11.992Z",
+              "WhenOpened": "2026-01-05T07:10:26.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Variable .cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC C#\uC6A9\\ConsoleApp1\\Variable .cs",
-              "RelativeDocumentMoniker": "Variable .cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC C#\uC6A9\\ConsoleApp1\\Variable .cs",
-              "RelativeToolTip": "Variable .cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "system.cs",
+              "DocumentMoniker": "C:\\Lion7\\ConsoleApp1\\system.cs",
+              "RelativeDocumentMoniker": "system.cs",
+              "ToolTip": "C:\\Lion7\\ConsoleApp1\\system.cs",
+              "RelativeToolTip": "system.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T01:46:27.625Z",
+              "WhenOpened": "2026-01-05T07:10:21.914Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         },
