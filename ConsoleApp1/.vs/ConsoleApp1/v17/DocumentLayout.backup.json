@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC C#\uC6A9\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|c:\\users\\asus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC c#\uC6A9\\consoleapp1\\special.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|solutionrelative:special.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|c:\\users\\asus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC c#\uC6A9\\consoleapp1\\literal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|solutionrelative:literal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|c:\\users\\asus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC c#\uC6A9\\consoleapp1\\declaration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|solutionrelative:declaration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|c:\\users\\asus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC c#\uC6A9\\consoleapp1\\variable .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|solutionrelative:variable .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "special.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC C#\uC6A9\\ConsoleApp1\\special.cs",
+              "RelativeDocumentMoniker": "special.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC C#\uC6A9\\ConsoleApp1\\special.cs",
+              "RelativeToolTip": "special.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T06:13:45.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "declaration.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC C#\uC6A9\\ConsoleApp1\\declaration.cs",
+              "RelativeDocumentMoniker": "declaration.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC C#\uC6A9\\ConsoleApp1\\declaration.cs",
+              "RelativeToolTip": "declaration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T04:33:33.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Literal.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC C#\uC6A9\\ConsoleApp1\\Literal.cs",
+              "RelativeDocumentMoniker": "Literal.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC C#\uC6A9\\ConsoleApp1\\Literal.cs",
+              "RelativeToolTip": "Literal.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T02:28:11.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Variable .cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC C#\uC6A9\\ConsoleApp1\\Variable .cs",
+              "RelativeDocumentMoniker": "Variable .cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE40\uACC4\uC644\u0027s \uCEF4\uD504\uC791\uC5C5\uBB3C\\\uBA4B\uC0AC C#\uC6A9\\ConsoleApp1\\Variable .cs",
+              "RelativeToolTip": "Variable .cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T01:46:27.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
