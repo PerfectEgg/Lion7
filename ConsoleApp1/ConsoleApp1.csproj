@@ -45,10 +45,13 @@
   <ItemGroup>
     <Compile Include="boolean.cs" />
     <Compile Include="character.cs" />
+    <Compile Include="ex.cs" />
     <Compile Include="numeric.cs" />
     <Compile Include="constant.cs" />
     <Compile Include="declaration.cs" />
     <Compile Include="Literal.cs" />
+    <Compile Include="Operator.cs" />
+    <Compile Include="readString.cs" />
     <Compile Include="special.cs" />
     <Compile Include="system.cs" />
     <Compile Include="thread.cs" />

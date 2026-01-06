@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Lion7\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|c:\\lion7\\consoleapp1\\special.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|solutionrelative:special.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|c:\\lion7\\consoleapp1\\thread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|solutionrelative:thread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|c:\\lion7\\consoleapp1\\system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|solutionrelative:system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|c:\\lion7\\consoleapp1\\ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DC7FD7-28AD-41A6-9BB9-8B4AD24D6666}|ConsoleApp1.csproj|solutionrelative:ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 235,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "special.cs",
-              "DocumentMoniker": "C:\\Lion7\\ConsoleApp1\\special.cs",
-              "RelativeDocumentMoniker": "special.cs",
-              "ToolTip": "C:\\Lion7\\ConsoleApp1\\special.cs",
-              "RelativeToolTip": "special.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAIwDEAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T07:20:31.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "thread.cs",
-              "DocumentMoniker": "C:\\Lion7\\ConsoleApp1\\thread.cs",
-              "RelativeDocumentMoniker": "thread.cs",
-              "ToolTip": "C:\\Lion7\\ConsoleApp1\\thread.cs",
-              "RelativeToolTip": "thread.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T07:10:26.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "system.cs",
-              "DocumentMoniker": "C:\\Lion7\\ConsoleApp1\\system.cs",
-              "RelativeDocumentMoniker": "system.cs",
-              "ToolTip": "C:\\Lion7\\ConsoleApp1\\system.cs",
-              "RelativeToolTip": "system.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T07:10:21.914Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex.cs",
+              "DocumentMoniker": "C:\\Lion7\\ConsoleApp1\\ex.cs",
+              "RelativeDocumentMoniker": "ex.cs",
+              "ToolTip": "C:\\Lion7\\ConsoleApp1\\ex.cs",
+              "RelativeToolTip": "ex.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:54:43.26Z",
+              "EditorCaption": ""
             }
           ]
         },
