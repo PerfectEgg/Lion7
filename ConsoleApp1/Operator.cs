@@ -205,6 +205,65 @@
 
 //            //binary = Convert.ToString(value >> 1, 2).PadLeft(4, '0');
 //            //Console.WriteLine(binary);  // 0010
+
+
+//            ////기타 연산자
+//            //int a = 10, b = 20;
+//            //int max = (a > b) ? a : b;
+//            //Console.WriteLine(max);
+
+//            ////사용법
+//            //int score = 85;
+//            //string result = (score >= 60) ? "합격" : "불합격";
+
+//            //Console.WriteLine("=== 시험 결과 ===");
+//            //Console.WriteLine($"점수: {score}");
+//            //Console.WriteLine($"결과: {result}");
+
+
+//            ////예제 2
+//            //int level = 45;
+//            //string rank = (level > 50) ? "고급" : (level > 30) ? "중급" : "초급";
+
+//            //Console.WriteLine("=== 플레이어 등급 ===");
+//            //Console.WriteLine($"레벨: {level}");
+//            //Console.WriteLine($"등급: {rank}");
+
+
+//            ////예제 3
+//            //int health = 30;
+//            //int maxHealth = 100;
+//            //string status = ((double)health / maxHealth * 100 >= 70) ? "안정" : ((double)health / maxHealth * 100 >= 30) ? "주의" : "위험";
+
+//            //Console.WriteLine("=== 플레이어 체력 ===");
+//            //Console.WriteLine($"현재 체력: {(double)health / maxHealth * 100}%");
+//            //Console.WriteLine($"상태: {status}");
+
+
+//            ////연산자 우선순위
+//            //int result = 10 + 5 * 2;           //곱셈이 덧셈보다 우선
+//            //Console.WriteLine(result);
+
+//            //int adjustedResult = (10 + 5) * 2; //괄호로 우선순위 변경
+//            //Console.WriteLine(adjustedResult);
+
+
+//            //// 예제 2: 데미지 계산
+//            //int baseDamage = 50;
+//            //int bonusDamage = 20;
+//            //double criticalMultiplier = 1.5;
+
+//            //// 잘못된 계산
+//            //double damage1 = baseDamage + bonusDamage * criticalMultiplier;
+//            //// 올바른 계산
+//            //double damage2 = (baseDamage + bonusDamage) * criticalMultiplier;
+
+//            //Console.WriteLine("\n=== 크리티컬 데미지 계산 ===");
+//            //Console.WriteLine($"기본 데미지: {baseDamage}");
+//            //Console.WriteLine($"보너스 데미지: {bonusDamage}");
+//            //Console.WriteLine($"크리티컬 배율: {criticalMultiplier}");
+//            //Console.WriteLine($"잘못된 계산: {damage1}");  // 80.0
+//            //Console.WriteLine($"올바른 계산: {damage2}");  // 105.0
 //        }
 //    }
 //}

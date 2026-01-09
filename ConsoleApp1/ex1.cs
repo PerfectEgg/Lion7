@@ -6,7 +6,7 @@
 
 //namespace ConsoleApp1
 //{
-//    internal class ex
+//    internal class ex1
 //    {
 //        static void Main(string[] args)
 //        {
